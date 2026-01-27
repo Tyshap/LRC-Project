@@ -1,0 +1,20 @@
+_______________________________________________________________________
+|                         LEFT CENTER RIGHT                            |
+|                                                                      |
+|                               RULES                                  |
+|                                                                      |
+|A minimum of three players are required to start the game.            |
+|Each player starts with 3 chips. Each time the player goes,           |
+|they will roll up to two six-sided dice. If a player only has         |
+|one remaining chip, they will only roll one die. Each dice has        |
+|an L, R, and a C on it, with the remaining sides containing dots.     |
+|                                                                      |
+|For each L you roll, you pass a chip to the player on the left.       |
+|For each R you roll, you pass a chip to the player on the right.      |
+|For each C you roll, you put a chip in the center, and those chips    |
+|are no longer in play.                                                |
+|Dots are neutral and require no action to be taken.                   |
+|                                                                      |
+|Once there is only one player with remaining chips, they win the game.|
+|                                                                      |
+|______________________________________________________________________|
