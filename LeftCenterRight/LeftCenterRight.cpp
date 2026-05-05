@@ -77,7 +77,10 @@ int main() {
 }
 
 Player rollDice(Player player) { //This Funtion takes in a Player and then performs the game action of rolling dice for that player
-    int rolls = 2;
+    int rolls = 3;
+    if (player.getChips() == 2) {
+        rolls = 2;
+    }
     if (player.getChips() == 1) {
         rolls = 1;
     }
